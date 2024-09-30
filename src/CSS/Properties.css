@@ -1,0 +1,16 @@
+  .properties-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .property-image {
+    width: 100%;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    transition: 0.3s ease;
+  }
+
+  .property-card:hover .property-image {
+    transform: scale(1.1);
+  }

@@ -1,0 +1,27 @@
+.contact-container {
+    padding: 50px;
+    text-align: center;
+    background-color: #fafafa;
+  }
+  
+  .contact-container h1 {
+    font-size: 36px;
+    color: #333;
+  }
+  
+  .contact-container p {
+    font-size: 18px;
+    color: #666;
+  }
+  
+  .contact-container ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .contact-container li {
+    font-size: 18px;
+    color: #444;
+    margin: 10px 0;
+  }
+  
